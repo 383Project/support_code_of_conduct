@@ -7,7 +7,7 @@ Hosting estimates are used by Engineering, Finance, and New Business to facilita
 ## How to Generate Hosting Estimates
 By completing this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScsAvkcgkvUxp_JHr2hqZBIZ1BV9fMHsp7Z6wJBLozCTsqg8w/viewform) you'll be able to automatically generate a Hosting Estimate located in this [Google Drive](https://drive.google.com/drive/u/0/folders/1L86YZafMZ5q8awJEurnXk8iz-cXdbQED) folder. 
 
-Each estimate is catalogued based on the `Client Name`, the first quetsion in the google form. If you have multiple hosting estimates for the same client but under different projects, it's recommended to add the project name too, e.g. `Hilton - Master API`.
+Each estimate is catalogued based on the `Client Name`, the first quetsion in the google form. If you have multiple hosting estimates for the same client but under different projects, it's recommended to add the project name too, e.g. [Hilton Inspired Events - Weddings](https://drive.google.com/drive/u/0/folders/1h6tOCErTHTWvAaCycgRQlkE_eqctahSP).
 
 After the estimate is generated you'll be required to add notes for Finance to review, and then send the estimate to Finance asking for a review on the `hosting` slack channel.
 
