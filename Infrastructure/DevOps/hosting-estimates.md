@@ -1,5 +1,5 @@
 # Hosting Estimates
-[Table of Contents](../readme.md)
+[Table of Contents](/readme.md)
 
 ## What Are Hosting Estimates For?
 Hosting estimates are used by Engineering, Finance, and New Business to facilitate winning a new piece of work. They are calculated based on quantifiable values.
@@ -14,7 +14,7 @@ After the estimate is generated you'll be required to add notes for Finance to r
 ## Adding Notes
 The below image is that of a Hosting Estimate to accommodate a new website. Everything right of the thick black line is meant for the client, everything to the left is for internal use only.
 
-![Hosting Estimate Example](../Assets/example-hosting-estimate.png)
+![Hosting Estimate Example](/Assets/example-hosting-estimate.png)
 
 Below the `Entry Gross Profit Margin` should be the `Notes` manually added by the DevOps generating the Hosting Estimate. These notes need to include where the quantifiable numbers used to generate the estimate came from, either from the client or internally by 383 based on another project. This information is important as it informs Finance if they need to adjust the `Mark Up (%)`.
 
