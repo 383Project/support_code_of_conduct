@@ -1,0 +1,6 @@
+* [Table of Contents](/readme.md)
+    * [Infrastructure](./Infrastructure/toc.md)
+        - [Hosting Estimates](./Infrastructure/hosting-estimates.md)
+        - [Platforms](./Infrastructure/Platforms/toc.md)
+            - [Amazon Web Services](./Infrastructure/Platforms/amazon-web-services.md)
+            - [Rackspace](./Infrastructure/Platforms/rackspace.md)
