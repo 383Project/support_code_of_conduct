@@ -1,4 +1,4 @@
 # Table of Contents
-- [Infrastructure](./Infrastructure/toc.md)
-    - [DevOps](./Infrastructure/DevOps/toc.md)
-        - [Hosting Estimates](./Infrastructure/DevOps/hosting-estimates.md)
+- [DevOps](./DevOps/toc.md)
+    - [Infrastructure](./DevOps/Infrastructure/toc.md)    
+        - [Hosting Estimates](./DevOps/Infrastructure/hosting-estimates.md)

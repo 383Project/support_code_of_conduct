@@ -1,2 +1,2 @@
-* [Table of Contents](../toc.md)
+* [Table of Contents](/readme.md)
     - [Hosting Estimates](./hosting-estimates.md)
