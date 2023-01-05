@@ -8,11 +8,11 @@ In order to connect to the servers we use Termius to connect via SSH. Termius ca
 
 You can find the connection details for the servers in 1password. If you need access to a server that you can't find in 1password then please speak to a 1password Admin as you may have not access to the relevant vault.
 
-![1password.png](/Assets/Tools/Termius/1password.png)
+![1password](/Assets/1password.png)
 
 Use these details to create a new SSH connection. In Termius click `Add > New Host` along the top and you will see the following appear down the right hand side.
 
-![Termius](/Assets/Tools/Termius/Termius.png)
+![Termius](/Assets/Termius.png)
 
 <B>Label:</B> The name for your server. This should be something that is recognisable to you, i.e. `383-project Prod`.
 <B>Address:</B> IP Address for the server.
