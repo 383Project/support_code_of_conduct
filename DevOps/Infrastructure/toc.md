@@ -4,4 +4,5 @@
         - [RDS](./backups-in-aws/rds.md)
         - [S3](./backups-in-aws/s3.md)
     - [DNS Configuration](./dns-route-53.md)
+    - [Hilton Wifi Bulk Updates](./hilton-wifi-bulk.md)
     - [Hosting Estimates](./hosting-estimates.md)

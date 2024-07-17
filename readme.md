@@ -6,6 +6,7 @@
             - [RDS](./DevOps/Infrastructure/backups-in-aws/rds.md)
             - [S3](./DevOps/Infrastructure/backups-in-aws/s3.md)
         - [DNS Configuration](./DevOps/Infrastructure/dns-route-53.md)
+        - [Hilton Wifi Bulk Updates](./DevOps/Infrastructure/hilton-wifi-bulk.md)
         - [Hosting Estimates](./DevOps/Infrastructure/hosting-estimates.md)
 - [SLAs](./SLAs/toc.md)
     - [Server Outages](./SLAs/server-outages.md)
