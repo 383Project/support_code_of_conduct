@@ -1,2 +1,5 @@
 * [Table of Contents](/readme.md)
-    - [Hosting Estimates](./hosting-estimates.md)
+    - [Backups](./toc.md)
+        - [EC2](./ec2.md)
+        - [RDS](./rds.md)
+        - [S3](./s3.md)
