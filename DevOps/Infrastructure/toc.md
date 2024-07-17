@@ -1,2 +1,7 @@
 * [Table of Contents](/readme.md)
+    - [Backups](./backups-in-aws/toc.md)
+        - [EC2](./backups-in-aws/ec2.md)
+        - [RDS](./backups-in-aws/rds.md)
+        - [S3](./backups-in-aws/s3.md)
+    - [DNS Configuration](./dns-route-53.md)
     - [Hosting Estimates](./hosting-estimates.md)

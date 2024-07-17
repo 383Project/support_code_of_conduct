@@ -1,3 +1,8 @@
 * [Table of Contents](/readme.md)
     * [Infrastructure](./Infrastructure/toc.md)
+        - [Backups](./Infrastructure/backups-in-aws/toc.md)
+            - [EC2](./Infrastructure/backups-in-aws/ec2.md)
+            - [RDS](./Infrastructure/backups-in-aws/rds.md)
+            - [S3](./Infrastructure/backups-in-aws/s3.md)
+        - [DNS Configuration](./Infrastructure/dns-route-53.md)
         - [Hosting Estimates](./Infrastructure/hosting-estimates.md)
